@@ -1,0 +1,40 @@
+.indent-tree__title {
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.indent-tree__text {
+    font-size: 20px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+
+
+.indent-tree__img-info {
+    width: 600px;
+    height: 450px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+
+.indent-tree__img-dom,
+.indent-tree__img-group,
+.indent-tree__img-code,
+.indent-tree__img-section {
+    margin-bottom: 30px;
+}
+
+.indent-tree__img-code {
+    width: 964px;
+    height: 164px;
+    margin-left: 50px;
+
+}
+
+.indent-tree__img-section{
+    width: 1022px;
+    margin-left: 30px;
+}

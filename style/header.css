@@ -1,0 +1,17 @@
+.header {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+.header__title {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.header__text {
+    font-size: 20px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,53 @@
+.indent-zero__title {
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.indent-zero__text {
+    font-size: 20px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.indent-zero__img-one-pic,
+.indent-zero__img-receipe,
+.indent-zero__img-nine,
+.indent-zero__img-navbar,
+.indent-zero__img-code-navbar,
+.indent-zero__img-menu{
+    margin-bottom: 30px;
+}
+
+
+.indent-zero__img-receipe {
+    margin-left: 250px;
+    width: 600px;
+    height: 600px;
+
+}
+
+.indent-zero__img-nine {
+    margin-left: 250px;
+    width: 600px;
+    height: 607px;
+}
+
+.indent-zero__img-code-navbar {
+    width: 806px;
+    height: 475px;
+    margin-left: 150px;
+}
+
+.indent-zero__img-menu {
+    width: 317px;
+    height: 110px;
+    margin-left: 380px;
+}
+
+.indent-zero__img-last{
+    width: 500px;
+    height: 383px;
+    margin-left: 290px;
+}

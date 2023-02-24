@@ -1,0 +1,32 @@
+.indent-value__title {
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.indent-value__block {
+    padding-bottom: 60px;
+}
+
+
+.indent-value__img-margin {
+    width: 560px;
+    height: 415px;
+    float: left;
+    margin-right: 30px;
+}
+
+.indent-value__text {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.indent-value__img-padding {
+    width: 560px;
+    height: 279px;
+    float: right;
+    margin-left: 40px;
+}
