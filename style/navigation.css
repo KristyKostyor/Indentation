@@ -1,4 +1,4 @@
-.wrapper {
+.container__gray-block {
     max-width: 1140px;
     background: #F1F1F1;
     border-radius: 10px;
@@ -19,9 +19,11 @@
     color: #02535F;
     padding-bottom: 25px;
 }
+
 .navigation__list-item {
     margin: 5px 0;
 }
+
 .navigation__link {
     text-decoration: underline;
 }
