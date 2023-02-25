@@ -6,7 +6,9 @@
 }
 
 .indent-value__block {
-padding-bottom: 100px;
+    padding-bottom: 30px;
+    overflow: hidden;
+  
 }
 
 
